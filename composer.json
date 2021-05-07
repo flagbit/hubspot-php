@@ -1,0 +1,15 @@
+{
+  "require": {
+    "hubspot/hubspot-php": "^3.0"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "autoload": {
+    "psr-4": {
+      "Flagbit\\Hubspot\\": "src/"
+    }
+  },
+  "name": "flagbit/hubspot-php",
+  "description": "Extended version of the hubspot/hubspot-php library"
+}
